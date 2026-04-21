@@ -27,7 +27,7 @@ const greeting = {
   subTitle1: "Over the past 7 years, I've shipped React and Next.js interfaces, React Native and Flutter apps, Node.js and Python backends, and AI-powered features that turn raw data into something people actually use. My comfort zone stretches from pixel-level UI polish to model inference, from TypeScript to tensors.",
   subTitle2: "What ties it all together: I care about the whole product, not just my slice of it. I design systems that scale, write code that reads cleanly, and translate between product, design, and data teams without losing the thread.",
   resumeLink:
-    "https://drive.google.com/file/d/1A9yyLxUrO58TiU91ai0f4J9Xww2NyPEt/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1A9yyLxUrO58TiU91ai0f4J9Xww2NyPEt/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
