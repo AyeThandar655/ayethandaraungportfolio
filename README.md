@@ -6,4 +6,4 @@
 ✔️ Featured Projects\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Contact me\
-✔️ Download Resume\
+✔️ Download Resume

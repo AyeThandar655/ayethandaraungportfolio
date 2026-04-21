@@ -22,19 +22,19 @@ const illustration = {
 const greeting = {
   title: "Hello, I'm Aye Thandar Aung",
   subTitle: emoji(
-    "I am a dedicated Software Engineer 🚀 with 7 years of experience designing, developing, and deploying web and mobile applications using modern technologies. My expertise spans both front-end and back-end development, including JavaScript, TypeScript, and frameworks such as React, React Native, Next.js, Vue.js, Angular.js, Flutter, Node.js, and Express.js."
+    "I'm a software engineer  🚀  who builds across the full product surface — web, mobile, and the intelligent systems behind them"
   ),
-  subTitle1: "With a solid foundation in Computer Science, I bring strong analytical and problem-solving skills, a keen eye for detail, and a passion for learning and applying new technologies to solve complex challenges.",
-  subTitle2: "I value collaboration and clear communication, which enables me to contribute effectively to diverse teams and deliver high-quality, impactful software solutions. I am eager to further deepen my expertise, explore cutting-edge technologies, and contribute to innovative projects in the field of software engineering.",
+  subTitle1: "Over the past 7 years, I've shipped React and Next.js interfaces, React Native and Flutter apps, Node.js and Python backends, and AI-powered features that turn raw data into something people actually use. My comfort zone stretches from pixel-level UI polish to model inference, from TypeScript to tensors.",
+  subTitle2: "What ties it all together: I care about the whole product, not just my slice of it. I design systems that scale, write code that reads cleanly, and translate between product, design, and data teams without losing the thread.",
   resumeLink:
-    "https://drive.google.com/file/d/1VdSUtkSX2wSgftuKLO5E9stq1jdTCiD2/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1A9yyLxUrO58TiU91ai0f4J9Xww2NyPEt/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Aye-bufftech",
+  github: "https://github.com/AyeThandar655",
   linkedin: "https://www.linkedin.com/in/ayethandaraung/",
   gmail: "ayethandaraung544@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -48,15 +48,12 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY SOFTWARE ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji(
-      "⚡ Designed and developed full-stack solutions for web and mobile applications using JavaScript, TypeScript, React, React Native, Next JS, Angular JS, Vue JS, Express JS, Node, Flutter, Ionic, PHP, Laravel, Bootstrap, and CSS frameworks."
-    ),
-    emoji("⚡ Wrote high-quality, efficient code, collaborating effectively with backend developers."),
-    emoji("⚡ Collaborated with product owners, UI/UX designers, back-end developers, and QA teams to ensure deliverables met expectations."),
-    emoji("⚡ Optimize database transactions and implement robust error-handling mechanisms, ensuring reliability"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase / AWS / Payment Gateway"
-    )
+    emoji("⚡ Web Development: I build fast, responsive, production-ready web apps with React, Next.js, Vue, and Angular — from marketing sites to complex dashboards with real users behind them."),
+    emoji("⚡ Mobile Development: I design cross-platform mobile experiences in React Native, Flutter, and Ionic that feel native on both iOS and Android, without the overhead of maintaining two codebases."),
+    emoji("⚡ Backend & APIs: I architect reliable backends with Node.js, Express, Laravel, and Python — designing clean APIs, optimizing database transactions, and building systems that don't break under load."),
+    emoji("⚡ AI & Intelligent Features: I integrate LLMs, build RAG pipelines, and ship AI-powered features (chat, search, automation, content generation) that turn products from functional into genuinely useful."),
+    emoji("⚡ Data Science & Analytics: I work with Python, Pandas, NumPy, and scikit-learn to clean messy data, build models, and turn information into decisions."),
+    emoji("⚡ Integrations & Infrastructure: Firebase, AWS, Stripe, and the third-party services that make products real — wired up cleanly and built to scale.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -102,10 +99,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Bootstrap",
       fontAwesomeClassname: "fab fa-bootstrap"
-    },
-    {
-      skillName: "SASS",
-      fontAwesomeClassname: "fab fa-sass"
     },
     {
       skillName: "Figma",
