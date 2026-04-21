@@ -22,7 +22,7 @@ const illustration = {
 const greeting = {
   title: "Hello, I'm Aye Thandar Aung",
   subTitle: emoji(
-    "I'm a software engineer  🚀  who builds across the full product surface — web, mobile, and the intelligent systems behind them"
+    "I'm a software engineer  🚀  who builds across the full product surface — web, mobile, and the intelligent systems behind them."
   ),
   subTitle1: "Over the past 7 years, I've shipped React and Next.js interfaces, React Native and Flutter apps, Node.js and Python backends, and AI-powered features that turn raw data into something people actually use. My comfort zone stretches from pixel-level UI polish to model inference, from TypeScript to tensors.",
   subTitle2: "What ties it all together: I care about the whole product, not just my slice of it. I design systems that scale, write code that reads cleanly, and translate between product, design, and data teams without losing the thread.",
